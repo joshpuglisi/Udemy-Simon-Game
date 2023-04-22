@@ -37,6 +37,12 @@ body {
   opacity: 0.8;
 }
 
+p {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 0.8rem;
+  color: #FEF2BF;
+}
+
 /***************************/
 
 .red {
